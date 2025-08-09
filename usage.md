@@ -41,7 +41,7 @@ Before performing PCA and encoding modeling, raw stimulus features must be extra
 - Extracted features correspond to a selected hidden layer (e.g., layer 19) averaged over time frames.
 - All chunk features for an episode are saved as a single `.npy` array.
 
-### Running Audio Feature Extraction on HPC (Example)
+### Running Audio Feature Extraction (example)
 A SLURM batch script `scripts/run_hubert_audio_features_array.sh` runs extraction jobs in parallel over folders:
 
 ```bash
