@@ -23,7 +23,7 @@ Using pre-trained neural networks for feature extraction, dimensionality reducti
 
 ## About This Project
 
-This project was completed in the Computational Affective and Neuroscience Lab at the University of Chicago, under the mentorship of [Yuan Chang (YC) Leong](https://github.com/ycleong), [Monica Rosenberg (@monicadrosenberg)](https://github.com/monicadrosenberg), and alongside collaborator [Olivia Sopala](https://github.com/buggy1135).
+This project was completed in the Computational Affective and Neuroscience Lab at the University of Chicago, under the mentorship of [Yuan Chang (YC) Leong](https://github.com/ycleong), [Monica Rosenberg](https://github.com/monicadrosenberg), and alongside collaborator [Olivia Sopala](https://github.com/buggy1135).
 Our goal was to build machine learning models that predict brain responses to naturalistic experiences using fMRI data collected from participants watching movies and TV shows.
 
 Our final model, which integrated all three sensory modalities, ranked 27th out of over 200 teams worldwide in the [2025 Algonauts Challenge](https://algonautsproject.com/), a global competition on predicting brain responses from complex natural stimuli.
