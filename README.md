@@ -1,6 +1,6 @@
 # Predicting Neural Responses to Multimodal Stimuli with Machine Learning Models
 
-See research symposium poster [here](algonauts-dsi/report.pdf).
+**See research symposium poster [here](algonauts-dsi/Bertha%20Shipper%20-%20DSI%20Symposium%20Poster.pdf).**
 
 This repository contains the scripts for a machine learning project aimed at predicting human brain responses to naturalistic stimuli using fMRI data.
 The project was part of the 2025 Algonauts Challenge, an international competition focused on linking brain activity with complex audiovisual inputs such as movies and TV shows.
